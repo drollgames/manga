@@ -1,0 +1,33 @@
+.zerofour-body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: radial-gradient(ellipse at center, #922B21, #111);
+    overflow: hidden;
+}
+
+.zerofour-header{
+    position:absolute;
+    justify-content: center;
+    color: white;
+    font-family: 'Luckiest Guy', cursive;
+    font-size: 40px;
+}
+
+.index-body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: orange;
+    overflow: hidden;
+}
+
+.index-header{
+    position:absolute;
+    justify-content: center;
+    color: white;
+    font-family: 'Staatliches', cursive;
+    font-size: 40px;
+}
