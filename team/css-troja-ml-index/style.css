@@ -20,7 +20,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background: radial-gradient(ellipse at center, #f39d12c4, #111);
+    background-color: orange;
     overflow: hidden;
 }
 
