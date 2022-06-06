@@ -3,7 +3,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background: radial-gradient(ellipse at center, #922B21, #111);
+    background: orange;
     overflow: hidden;
 }
 
